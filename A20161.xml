@@ -1,0 +1,702 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another tombestone; or, A sermon preached at Laurance Pountneys-Church London, vpon the last day of August, in the yeere, 1626 At the celebration of the funerals of Master Iohn Iuxon, late citizen of the Honourable city of London. By Stephen Denison, preacher of Gods most holy Word in the same city.</title>
+            <author>Denison, Stephen, d. 1649 or 50.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20161</idno>
+            <idno type="STC">STC 6598</idno>
+            <idno type="STC">ESTC S118655</idno>
+            <idno type="EEBO-CITATION">99853862</idno>
+            <idno type="PROQUEST">99853862</idno>
+            <idno type="VID">19260</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20161)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19260)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1063:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another tombestone; or, A sermon preached at Laurance Pountneys-Church London, vpon the last day of August, in the yeere, 1626 At the celebration of the funerals of Master Iohn Iuxon, late citizen of the Honourable city of London. By Stephen Denison, preacher of Gods most holy Word in the same city.</title>
+                  <author>Denison, Stephen, d. 1649 or 50.</author>
+               </titleStmt>
+               <extent>[14], 64 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. M[iller] for Robert Milbourne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1626]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Juxon, John, d. 1626 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19260:1"/>
+            <pb facs="tcp:19260:1" rendition="simple:additions"/>
+            <p>Another TOMBESTONE; OR, A Sermon Preached at <hi>Laurance Pountneys-Church</hi> LONDON, vpon the laſt day <hi>of Auguſt, in the yeere</hi> 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6. At the Celebration of the <hi>Funerals of Maſter</hi> IOHN IVXON, <hi>late Citizen of</hi> the Honourable City of LONDON.</p>
+            <p>
+               <hi>By</hi> STEPHEN DENISON, Prea<g ref="char:EOLhyphen"/>cher of Gods moſt holy Word <hi>in the ſame City.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PRO. 10.7.</hi>
+               </bibl>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+               <p>The memoriall of the righteous man ſhall be bleſſed, but the name of the wicked ſhall rot.</p>
+               <p>Planè ſcio quód mortales ſumus, &amp; velimus nolimus om<g ref="char:EOLhyphen"/>nes moriemur, Aug. de ſpiritu &amp; anima lib. vno.</p>
+            </q>
+            <p>London Printed by <hi>G. M.</hi> for <hi>Robert Milbourne.</hi>
+            </p>
+         </div>
+         <div xml:lang="lat" type="dedication">
+            <pb facs="tcp:19260:2"/>
+            <pb facs="tcp:19260:2"/>
+            <head>VENERABILI Et egregio viro D. HENRICO MARTEN, <hi>Militi ac Legum Doctori, ſupreme Cu<g ref="char:EOLhyphen"/>riae Admiralitatis Angliae</hi> Iudici, ac Magiſtro Cuſtodi <hi>ſiue commiſſario Curiae</hi> Prae<g ref="char:EOLhyphen"/>rogatiuae Cant nec non almae curiae Cant. de <hi>Archubus London Officiali principali.</hi>
+            </head>
+            <opener>
+               <salute>Vir Colendiſſime,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">E</seg>X veteri recepto<g ref="char:EOLhyphen"/>que more quaeren<g ref="char:EOLhyphen"/>dus quiſpiam eſt, cui nostram hanc opellam, qualis qualis eſt, deuo<g ref="char:EOLhyphen"/>ueremus.
+<pb facs="tcp:19260:3"/> Nonnihil autem apud me dubitaui, an libellulum hunc tantilli pretij, tibi nuncupatum in lucem auderem emittere: ac mihi quidem nonnunquam ve<g ref="char:EOLhyphen"/>niebat in mentem ſubuereri, ne nimiae audaciae, ac potius teme<g ref="char:EOLhyphen"/>ritatís, iure poſsim argui, qui nec genere, nec eruditione, nec vir<g ref="char:EOLhyphen"/>tute inſignís, imo vix notus qui<g ref="char:EOLhyphen"/>dem, ad te virum tanti nominis &amp; meriti, ſcribere auderem: ſed omnem penè timorem mihi tan<g ref="char:EOLhyphen"/>dem excuſsit, &amp;, vt audacter ad te ſcriberem, incitauit ſum<g ref="char:EOLhyphen"/>matua, quae ab omnibus praedi<g ref="char:EOLhyphen"/>catur, at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> adeò laudibus in coe<g ref="char:EOLhyphen"/>lum effertur, humanitas. Ita enim caepi apud me cogitare,
+<pb facs="tcp:19260:3"/> quid ni ad eum ſcribam virum candidiſsimum? qui, quae ſibi à deo data eſt, poteſtate ita vti<g ref="char:EOLhyphen"/>tur, vt priuata publicis poſt po<g ref="char:EOLhyphen"/>nens, co<g ref="char:cmbAbbrStroke">̄</g>munibus commodis ſua contineri exiſtimet, &amp; iudicís officio, ita ſe demum rectè fun<g ref="char:EOLhyphen"/>cturum verè ſentiat, ſimultoru<g ref="char:cmbAbbrStroke">̄</g> bonum ſibi proponens, ſinguloru<g ref="char:cmbAbbrStroke">̄</g> quoqùe quoad eius fieri poteſt, rationem habendam ſatis intel<g ref="char:EOLhyphen"/>ligat. Qui autem in ta<g ref="char:cmbAbbrStroke">̄</g>ta dignita<g ref="char:EOLhyphen"/>te ita vitam inſtituit, minime timendu<g ref="char:cmbAbbrStroke">̄</g> eſt, ne is quenqua<g ref="char:cmbAbbrStroke">̄</g> prop<g ref="char:EOLhyphen"/>ter obſcuritate<g ref="char:cmbAbbrStroke">̄</g> habeat deſpica<g ref="char:EOLhyphen"/>tui. Tibi (Eques illuſtriſsime) qui tibitui<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſemper ſimilis es, mul<g ref="char:EOLhyphen"/>tis nominibus obligatiſsimum meipſum ex corde meo fateor,
+<pb facs="tcp:19260:4"/> Maecenate<g ref="char:cmbAbbrStroke">̄</g> te mihi prae omnibus in toto mu<g ref="char:cmbAbbrStroke">̄</g>do praeſtitiſti. Tota Iſrael Londinenſis nouit quid pro me feciſti in ſumis meis anguſtijs. nouit dixi? imo vero gratias in<g ref="char:EOLhyphen"/>ge<g ref="char:cmbAbbrStroke">̄</g>tes deo proculdubiò agit, prop<g ref="char:EOLhyphen"/>ter amorem tuu<g ref="char:cmbAbbrStroke">̄</g> erga dei Mini<g ref="char:EOLhyphen"/>ſtros. Ingratus ſim profectò, niſi fauorem tuum agnoſcerem tam propenſu<g ref="char:cmbAbbrStroke">̄</g>, mihi<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> gratularer in ipſo. <hi>D<hi rend="sup">r</hi>. Felton</hi> nuper Epiſc. Eli<g ref="char:EOLhyphen"/>enſis digniſsimus, &amp; mei ama<g ref="char:cmbAbbrStroke">̄</g>tiſ<g ref="char:EOLhyphen"/>ſimus, ia<g ref="char:cmbAbbrStroke">̄</g>, vtitu probè noſti, mor<g ref="char:EOLhyphen"/>te<g ref="char:cmbAbbrStroke">̄</g> obijt, vita<g ref="char:cmbAbbrStroke">̄</g> mortalem cum im<g ref="char:EOLhyphen"/>mortali faeliciſsimo modo co<g ref="char:cmbAbbrStroke">̄</g>mu<g ref="char:EOLhyphen"/>ta<g ref="char:cmbAbbrStroke">̄</g>s: ehu, que<g ref="char:cmbAbbrStroke">̄</g> amiſi? At non amiſ<g ref="char:EOLhyphen"/>ſus ſed praemiſſus eſt, nos omnes breuì ſubſequemur. Amicus item meus chariſsimus D. <hi>Ioannes
+<pb facs="tcp:19260:4"/> Iuxon</hi> (in cuius memoriam hoc Monumentu funebre inſtruxi) qui omnes meas curas in ſe ſuſce<g ref="char:EOLhyphen"/>pit, qui <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> abſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> moleſtia mea proſpexit, qui mihi nutritius, propugnator, intimus, pater exſtitit, occubuit: ſic f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uctus fluctu inuocat: adeo vt ego or<g ref="char:EOLhyphen"/>pha<g ref="char:cmbAbbrStroke">̄</g>us planè in hoc mudo relictus ſum ſed quid queror? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in monte dominus videbi<g ref="char:EOLhyphen"/>tur: in ipſum Patres noſtri ſunt co<g ref="char:cmbAbbrStroke">̄</g>fiſi &amp; non ſunt confuſi: &amp; au<g ref="char:EOLhyphen"/>res tuas (venerande) gemitibus meís colubinís adimplere fortaſ<g ref="char:EOLhyphen"/>ſe non decet: mitto igitur. The<g ref="char:EOLhyphen"/>miſtocles ille ſapiens vir Graeciae (vt refert<note n="a" place="margin">Epiſt. ad Nepot.</note> Hieronimus.) Cu<g ref="char:cmbAbbrStroke">̄</g> ex<g ref="char:EOLhyphen"/>pletis ce<g ref="char:cmbAbbrStroke">̄</g>tu<g ref="char:cmbAbbrStroke">̄</g> &amp; ſepte<g ref="char:cmbAbbrStroke">̄</g> annis ſe mori
+<pb facs="tcp:19260:5"/> cerneret, dixiſſe fertur, ſe dolere quod tunc egrederetur è mundo cum ſapere caepiſſet: <hi>Plato</hi> octo<g ref="char:EOLhyphen"/>geſsimo primo anno ſcribe<g ref="char:cmbAbbrStroke">̄</g>s mor<g ref="char:EOLhyphen"/>tuus eſt: <hi>Iſocrates</hi> nonaginta &amp; noue<g ref="char:cmbAbbrStroke">̄</g> annos in ſcribe<g ref="char:cmbAbbrStroke">̄</g>di &amp; do<g ref="char:EOLhyphen"/>ce<g ref="char:cmbAbbrStroke">̄</g>di labore co<g ref="char:cmbAbbrStroke">̄</g>pleuit: taceo caete<g ref="char:EOLhyphen"/>ros Philoſophos, <hi>Pythagoram, Democritum, Zenocratem, Zenonem,</hi> qui in aetate longaeua studijs floruerunt: Ad poetas venio, <hi>Homerum, Heſiodu<g ref="char:cmbAbbrStroke">̄</g>, Simonidem, Steſichoru<g ref="char:cmbAbbrStroke">̄</g>,</hi> qui grandes natu, ſolito dulciùs vi<g ref="char:EOLhyphen"/>cina morte cecinerunt. <hi>Sopho<g ref="char:EOLhyphen"/>cles,</hi> cum propter nimiam ſene<g ref="char:EOLhyphen"/>ctute<g ref="char:cmbAbbrStroke">̄</g>, &amp; rei familiaris neglige<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tiam a filijs iniuſtè accuſaretur amentiae: Aedipi fabulam quam
+<pb facs="tcp:19260:5"/> nuper ſcripſerat, iudicibus reci<g ref="char:EOLhyphen"/>tauit, ſapientiae in aetate iam fracta, ſpecimen dans. <hi>Cato</hi> ce<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſorius Romani generis diſertiſsi<g ref="char:EOLhyphen"/>mus iam &amp; ſenex graecas lite<g ref="char:EOLhyphen"/>ras diſcere nec erubuerit, nec de<g ref="char:EOLhyphen"/>ſperauerit: &amp; <hi>Homerus</hi> refert delingua Neſtoris iam vetuli &amp; penè decrepiti dulciorem melle orationem fluxiſſe: hi inquam omnes (liceat enim mihi velipſis Ethnicis ſuas lauros hederaſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> concedere iuxta illud, <hi>reddite Caeſari quae ſu<g ref="char:cmbAbbrStroke">̄</g>t Caeſaris</hi>) omni liberali eruditione inſtructiſsimi, citius ocyus euaſerunt: mihi ve<g ref="char:EOLhyphen"/>ro dicere licet cum Moſe: non ſum vir facundus, nec vnquam fui, ſed impedito ore &amp; impedita lin<g ref="char:EOLhyphen"/>gua
+<pb facs="tcp:19260:6"/> ſum: tutamen (vir or natiſ<g ref="char:EOLhyphen"/>ſime) qui inter alios emines, bo<g ref="char:EOLhyphen"/>ni conſulas hunc libeliulum, etia<g ref="char:cmbAbbrStroke">̄</g> at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> etiam obſecro: &amp; indulgenti ocu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o perlegas; prouerbium est Arabicu<g ref="char:cmbAbbrStroke">̄</g>, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> omni vulneri eſt me<g ref="char:EOLhyphen"/>dicina, at malo naturae non poteſt eſſe medicina<g ref="char:punc">▪</g> durus eſt hic ſer<g ref="char:EOLhyphen"/>mo<g ref="char:punc">▪</g> noui enim candorem tuum (vir celeberrime) hebetudini meae, qua<g ref="char:cmbAbbrStroke">̄</g> mihi natura indidit ac inſeuit poſſeremedium adhibere, nempè co<g ref="char:cmbAbbrStroke">̄</g>donationem ſiue indul<g ref="char:EOLhyphen"/>gentia<g ref="char:cmbAbbrStroke">̄</g>. Nunc quod reſtat; Deum Opt. Max. precor vt ſua dona, quae largiſsime inte contulit ſer<g ref="char:EOLhyphen"/>uare, tueri &amp; augere dignetur:
+<pb facs="tcp:19260:6"/> longaeuum te reddat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hoc mu<g ref="char:cmbAbbrStroke">̄</g>do, in bonum commune; &amp; faelic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m in futuro, in tui ipſius bonum.</p>
+            <closer>
+               <signed>
+                  <hi>Amplitudini tuae deuotiſſimus</hi> Stephanus Deniſon.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:19260:7"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Hriſtian Reader, I haue formerly ſet forth a Sermon, called The <hi>Monu<g ref="char:EOLhyphen"/>ment</hi> or <hi>Tombe<g ref="char:EOLhyphen"/>ſtone,</hi> preached at the burial of M<hi rend="sup">rs</hi>. ELIZABETH IVXON, who deceaſed, <hi>Nouemb.</hi> 16. <hi>Anno.</hi> 1619. and was buried the twentie two of the ſame moneth, <hi>&amp; nunc ecce do<g ref="char:EOLhyphen"/>lor ſuper dolorem.</hi> Now I haue the like ſorrowfull occaſion to ſet out another Sermon of the like na<g ref="char:EOLhyphen"/>ture, preached at the buriall of the Husband of the ſame wor<g ref="char:EOLhyphen"/>thy Woman. Be not ouer cenſori<g ref="char:EOLhyphen"/>ous, but iudge righteous iudge<g ref="char:EOLhyphen"/>ment:
+<pb facs="tcp:19260:7"/> deſire rather to benefit thine owne ſoule by the worke, then to ſpend thy iudgement vpon the workeman: if there bee any thing amiſſe in the Booke, that is mine; if any thing good, it is wil<g ref="char:EOLhyphen"/>lingly tendred to thee, take that which is thine owne, and goe thy way; and the Lord make it profi<g ref="char:EOLhyphen"/>table vnto thee: A<note n="a" place="margin">Martial. lib. <hi>7.</hi> Epi<g ref="char:EOLhyphen"/>gram <hi>84.</hi>
+               </note> Poet ſaith truly, <hi>Facile eſt Epigramata bellè ſcribere, ſed librum ſcribere difficile eſt;</hi> to write a verſe or two is no great taske, but to compoſe a booke who finds't not hard. And thus deſiring thy feruent prayers for me whilſt I am in <hi>viuis,</hi> inſtead of thine vnkinde cenſures, I reſt</p>
+            <closer>
+               <signed>
+                  <hi>Thine in the Lords worke</hi> S. D.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:19260:8"/>
+            <head>Errata.</head>
+            <p>Page 9. <hi>Hier. lib.</hi> 2. <hi>aduerſus Iouinianum</hi> in the <hi>Marg.</hi> ſhould haue bin ſet againſt <hi>Crates</hi> in the ſame page, In pag. 39. in <hi>Marg.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in pag 52. <hi>Cyrulus</hi> for <hi>Cyrillus</hi> in <hi>Marg.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:19260:8"/>
+            <head>A SERMON PREACHED at <hi>Laurence Pountnyes</hi>-London, vpon the laſt day of <hi>Auguſt,</hi> in the yeere 1626.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ROM. 7.24.</hi>
+                  </bibl>
+                  <p>O wretched man that I am: who ſhall deliuer me from the body of This death?</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">F</seg>Rom the beginning of the fifeteenth verſe of this Chapter, to the end of the three and twentieth, the
+<pb n="2" facs="tcp:19260:9"/> Apoſtle deſcribeth a ſharpe com<g ref="char:EOLhyphen"/>bate which he felt in himſelfe, be<g ref="char:EOLhyphen"/>tweene the fleſh and the ſpirit. In this twentie fourth verſe, is decla<g ref="char:EOLhyphen"/>red the effect, the ſenſe and feeling of it produced in this our Apoſtle, it cauſed him to crie out, <hi>O wretch<g ref="char:EOLhyphen"/>ed man that I am: who ſhall deliuer me from the body of this death?</hi> So that this Text may iuſtly be tear<g ref="char:EOLhyphen"/>med the dolefull Lamentation of <hi>Paul</hi> for the prauity of mans na<g ref="char:EOLhyphen"/>ture felt in himſelfe.</p>
+            <p>In the Text we haue two poynts: Firſt, an exclamation, in theſe words, <hi>Wretched man that I am:</hi> Secondly, an exoptation in the reſt, <hi>who ſhall deliuer me from the body of this death?</hi> In the ex<g ref="char:EOLhyphen"/>clamation two things: Firſt, the ſubiect, man: Secondly, the ad<g ref="char:EOLhyphen"/>iunct, <hi>Wretched:</hi> In the exoptati<g ref="char:EOLhyphen"/>on two things: Firſt, the euill he wiſheth to be freed from, namely,
+<pb n="3" facs="tcp:19260:9"/> 
+               <hi>from the body of death:</hi> Secondly, the forme of his wiſh, layd downe by way of queſtion, to imploy the earneſtneſſe of it, <hi>who ſhall deli<g ref="char:EOLhyphen"/>uer me?</hi> Firſt, concerning the ex<g ref="char:EOLhyphen"/>clamation, and in that firſt of the ſubiect, man.</p>
+            <p>Man hath diuers names in Scripture: he is called <hi>Adam,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies to be red, poſſibly, becauſe hee was made at the firſt of red earth: Secondly, he is called <hi>Iſh</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies to be, or ſub<g ref="char:EOLhyphen"/>ſiſt, becauſe in his eſſence and be<g ref="char:EOLhyphen"/>ing, he excelled all other terreſtri<g ref="char:EOLhyphen"/>all creatures: Thirdly, he is called <hi>Geber</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies to be ſtrong or valiant, to ſignifie his magnanimity or courage: Fourthly, he is called <hi>Enoſh</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies to bee ſickly, becauſe by his fall he ſo loſt his health ſpirituall, as that
+<pb n="4" facs="tcp:19260:10"/> neither he nor his poſterity in this world could euer recouer it againe in perfection. Againe, hee is cal<g ref="char:EOLhyphen"/>led aner <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, be<g ref="char:EOLhyphen"/>cauſe hee is highly lifted vp or ad<g ref="char:EOLhyphen"/>uanced, both in his Creation and glorification. Laſtly, he is called Anthropos, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, of looking vp wards; the rea<g ref="char:EOLhyphen"/>ſon of which Etymologie is ren<g ref="char:EOLhyphen"/>dred by the Poet in theſe words,<note place="margin">Ouid. lib. <hi>1.</hi> Metamor.</note>
+            </p>
+            <lg>
+               <l>Prona<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cum ſpectent animalia caetera terram,</l>
+               <l>Os homini ſublime dedit, coelum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> videre</l>
+               <l>Iuſsit, &amp; erectos ad ſidera tollere vultus.</l>
+            </lg>
+            <lg>
+               <l>And whereas others ſee with downe caſt eyes,</l>
+               <l>God with a lofty looke did man indue, &amp;c.</l>
+            </lg>
+            <p>
+               <note place="margin">
+                  <hi>1.</hi> Do<g ref="char:EOLhyphen"/>ctrine or inſtructi<g ref="char:EOLhyphen"/>on.</note>And as this name <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the name giuen in the text, ſo of al the reſt it is the moſt ſignificant, and
+<pb n="5" facs="tcp:19260:10"/> muſt teach vs according to that in <hi>Col.</hi> 3.2. <hi>to minde things aboue, &amp; not things on the earth.</hi> Firſt, <hi>to ſeeke Gods Kingdome and his righteouſ<g ref="char:EOLhyphen"/>neſſe, Mat.</hi> 6.33. <hi>to goe towards Zion with our faces thitherwards.</hi>
+               <note place="margin">Ier. 50.5.</note> I grant there ought to be a mode<g ref="char:EOLhyphen"/>rate care euen for the things of this life: the Eagle flies hie, but ſhee muſt come downe for her meate; ſo the Church muſt ſore high in her principall deſires, rea<g ref="char:EOLhyphen"/>ching after nothing in compari<g ref="char:EOLhyphen"/>ſon of heauen: and yet ſhee muſt alſo minde the things of this life with moderation, and in a ſubor<g ref="char:EOLhyphen"/>dination to ſpirituall things, 1 <hi>Tim.</hi> 5.8. Gods ordinance is, that none walke inordinately, or idly, but that euery man and woman liue in a particular calling. That which the Lord ſpeakes to <hi>Adam, Gen.</hi> 3.19. in the ſweat of thy face ſhalt thou eate bread, he ſpeakes
+<pb n="6" facs="tcp:19260:11"/> in like manner to all his poſterity: for he would haue no man to liue idly like a Sodomite, though hee be neuer ſo rich; he would haue vs indeed firſt to ſeeke his kingdome, but not onely to ſeeke it: ſome are iuſtly to be reproued in this City, which vnder a colour of Zeale to heare Sermons all the weeke long liue inordinately, not working at all, but liuing by the ſweate of other mens browes, who doe vn<g ref="char:EOLhyphen"/>lawfully relieue them, or by de<g ref="char:EOLhyphen"/>uouring that which belo<g ref="char:cmbAbbrStroke">̄</g>gs to the poore indeed, thinking themſelues to be wronged, if they haue not a ſhare in euery beneuolence. I ſpeake not this to quench any ſparke of true Zeale in any, or to condemne diligent hearing of Gods Word. I taxe not Zeale but idleneſſe. I deſire rather to kin<g ref="char:EOLhyphen"/>dle Zeale, and to teach my ſelfe and others to looke vpwards, and
+<pb n="7" facs="tcp:19260:11"/> to approue our ſelues <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to bee men by our hea<g ref="char:EOLhyphen"/>uenly mindedneſſe. Our mindes are like the weights of a clocke, they muſt continually bee wound vp, or they will ſinke to the earth; or like vnto ſtones which flie no longer vpwards then they are for<g ref="char:EOLhyphen"/>ced in their motion: therefore when we feele our ſoules to beare downeward (as they are very prone to doe by reaſon of the weight of corruption which hangs vpon them like leade) let vs quicken our ſelues vp with the remembrance of this Title, God hath made vs men and not beaſts, he hath giuen vs eyes to looke vp<g ref="char:EOLhyphen"/>wards, and let vs ſay with <hi>Gregory Nazianzen</hi> in a ſhort ſonnet which he makes to his owne ſoule,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>O my ſoule, looke vpwards, and for<g ref="char:EOLhyphen"/>get all earthly things.</hi>
+            </p>
+            <p>O my brethren, what argu<g ref="char:EOLhyphen"/>ments
+<pb n="8" facs="tcp:19260:12"/> ſhall I vſe to moue euery one of vs according to our Title, to looke vpwards? Conſider wee, I beſech you, the inſufficiencie of earthly things. Firſt, they doe not ſatisfie the ſoule, <hi>quo plus ſunt potae plus ſitiuntur aquae;</hi> the more a co<g ref="char:EOLhyphen"/>uetous heart hath of them, the more it doth deſire them: much like a man ſicke of a drie dropſie, the more he drinkes, the more hee may. Secondly, they are not able to preſerue a man either from Gods iudgements in this world, or from hell-fire in the world to come, <hi>Pro.</hi> 11.4. <hi>Riches profit not in the day of wrath.</hi> Thirdly, they are not able to make a mans life happie, whatſoeuer they ſeeme to promiſe: yea, oftentimes (vnleſſe they be in a ſpeciall manner ſan<g ref="char:EOLhyphen"/>ctified) they make it far more mi<g ref="char:EOLhyphen"/>ſerable, piercing the heart with many ſorrowes, 1 <hi>Tim.</hi> 6.10. I ap<g ref="char:EOLhyphen"/>peale
+<pb n="9" facs="tcp:19260:12"/> to the conſciences of many rich men, that formerly haue bin of meane condition,<note place="margin">Hier. lib. <hi>2.</hi> aduerſus Iouinian.</note> whether they finde not now that they are rich, more cares, more diſtractions, more troubles, and leſſe comfort then they haue done in a mea<g ref="char:EOLhyphen"/>ner condition. I ſpeake not this that with <hi>Crates</hi> wee ſhould caſt our riches into the ſea, or with begging Fryers wee ſhould affect voluntary pouerty, but ra<g ref="char:EOLhyphen"/>ther to teach vs, that if riches in<g ref="char:EOLhyphen"/>creaſe, we ſet not our hearts there<g ref="char:EOLhyphen"/>on, as the Pſalmiſt ſpeakes: but that wee haue our affections alwaies free for heauen and heauenly things.</p>
+            <p>Secondly,<note place="margin">Horat. lib. <hi>1.</hi> odarum od. <hi>28.</hi> Omnes vna manet nox, &amp; calcan<g ref="char:EOLhyphen"/>da ſemel via let hi.</note> conſider we ſeriouſly our frailty, the vncertainty of our liues, and what we muſt all bee ere it be long; to wit, wormes meate, notwithſtanding all our ſtrength, beauty, youth, friends, riches,
+<pb n="10" facs="tcp:19260:13"/> parts, preferments, dignities and the like, as the Poet ſpeaketh, eue<g ref="char:EOLhyphen"/>ry man muſt die; the way of death cannot bee ſhunned; the time therefore will ſhortly come when we ſhall wiſh we had cared more for heauen and leſſe for the earth.</p>
+            <p>
+               <note place="margin">Finiti ad infinitum nulla eſt proportio.</note>Thirdly, conſider wee how infinitely heauenly things ſur<g ref="char:EOLhyphen"/>paſſe earthly, one foote in heauen is more then ten thouſand acres vpon the earth, both in reſpect of excellency and perpetuity. Let vs not therefore inuert Gods order, ſetting earth aboue heauen in our affections, when God hath ſet the heauen ſo farre aboue the earth in the firſt Creation.</p>
+            <p>Fourthly, let vs bee much in the meditation of heauenly things, whiles wee are vpon the earth; the Sunne ſeemes ſmall in eye, but if wee were lifted vp as high as the Sunne, the earth poſ<g ref="char:EOLhyphen"/>ſibly
+<pb n="11" facs="tcp:19260:13"/> might ſeeme ſmaller: euen ſo, whiles our mindes are glued to earthly things, heauenly things are neglected, but if wee would minde things aboue, and ſeriouſly meditate of them, things below would appeare leſſe precious.</p>
+            <p>Fifthly and laſtly, I profeſſe in<g ref="char:EOLhyphen"/>geniouſly, I know not a more ſo<g ref="char:EOLhyphen"/>ueraigne meanes in the world, to helpe vs to winde vp our mindes towards heauen, and to gaine them from the world, and the in<g ref="char:EOLhyphen"/>ticing vanities thereof, then to be much conuerſant in Gods ordi<g ref="char:EOLhyphen"/>nances, in reading and hearing and meditating Gods Word, in Prayer, in holy conference and the like: theſe preſent heauen vnto our eye, theſe leade vs into ſweet fellowſhip and communion with God and Chriſt, theſe fill vs with the ioyes of the Holy Ghoſt, and peace of conſcience, and by this
+<pb n="12" facs="tcp:19260:14"/> meanes bring vs into that ſenſible happineſſe, euen in this life which wee would not part with for all the pleaſures, profits, or riches which this whole world can afford or yeeld. <hi>Thus for the ſub<g ref="char:EOLhyphen"/>iect,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. quaſi <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Man.</hi>
+            </p>
+            <p>Now come we to the adiunct, <hi>Wretched.</hi> The Greeke word thus tranſlated, ſignifieth properly one that ſuffereth ſorrow: the Hebrues expreſſe it by their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies one that is languid or quite ſpent, the Syrian and Chal<g ref="char:EOLhyphen"/>dee by their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifieth heauy or mournefull: the Arabick by two words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which ſignifie vile and vnfortu<g ref="char:EOLhyphen"/>nate: the truth is, by a talaiporous or wretched perſon, we are to vn<g ref="char:EOLhyphen"/>derſtand ſuch an one as is in a mi<g ref="char:EOLhyphen"/>ſerable caſe, by reaſon of ſome in<g ref="char:EOLhyphen"/>cumbent calamity. But heere it may be demanded, what calamity
+<pb n="13" facs="tcp:19260:14"/> was it which cauſed the Apoſtle thus to crie out? Surely not the calamity of affliction or perſecuti<g ref="char:EOLhyphen"/>on; yea, hee gloried in his ſuffe<g ref="char:EOLhyphen"/>rings, 2 <hi>Cor.</hi> 12.10.12. but the ca<g ref="char:EOLhyphen"/>lamity of ſin and inbred corrupti<g ref="char:EOLhyphen"/>on as appeares by the context.</p>
+            <p>
+               <hi>Wretched man that I am.</hi> The firſt thing hence to be obſerued,<note place="margin">2. <hi>Doct.</hi>
+               </note> is, that <hi>ſin remaines in the deareſt of Gods children after their regenera<g ref="char:EOLhyphen"/>tion:</hi> indeed it is not regnant in them after conuerſion, <hi>Rom.</hi> 6.12. but it is inhabitant, it raignes not as a King, but it dwells as an in<g ref="char:EOLhyphen"/>mate: for the proofe of this point; wee neede not goe out of this Chapter; <hi>Paul</hi> was a conuerted man, yet he was not without ſin: what he did, he allowed not; what he would, that hee did not; what he hated, that he did. In him, that is in his fleſh, abideth nothing that is good; to will was preſent
+<pb n="14" facs="tcp:19260:15"/> with him, but how to performe that which is good he found not; he found a law, that when hee would haue done good, euill was preſent with him; he ſaw another law in his members warring a<g ref="char:EOLhyphen"/>gainſt the law of his minde, and bringing him into captiuity to the law of ſinne,<note place="margin">Lib. vno de fide ad petru<g ref="char:cmbAbbrStroke">̄</g> Diaconum Tom <hi>3.</hi> Eos qui bene viuunt non<g ref="char:EOLhyphen"/>nulla quo<g ref="char:EOLhyphen"/>tidie contra<g ref="char:EOLhyphen"/>here peccata pro quibus etiam ſan<g ref="char:EOLhyphen"/>cti &amp; inſti in hac vita ſemper Deo dicere de<g ref="char:EOLhyphen"/>bent, dimitte nobis debita noſtra, ſicut &amp; nos di<g ref="char:EOLhyphen"/>mittimus debitoribus noſtris.</note> which was in his members; with his minde hee ſer<g ref="char:EOLhyphen"/>ued the law of God, but in his fleſh the law ſinne, <hi>Rom.</hi> 7.15.18.21.23.25. <hi>Et quod apoſtolus fatetur de ſeipſo, id nos de nobis inficias ire ini<g ref="char:EOLhyphen"/>quum eſt;</hi> and if ſuch an Apoſtle acknowledge ſinne in himſelfe, it were a ſhame for any of vs to pro<g ref="char:EOLhyphen"/>feſſe abſolute perfection. Saint <hi>Augustine</hi> ſaith, they which liue well, doe daily contract ſinne, for the which, they ought alwaies to ſay vnto God, <hi>forgiue vs our treſ<g ref="char:EOLhyphen"/>paſſes as we forgiue them that treſ<g ref="char:EOLhyphen"/>paſſe againſt vs:</hi> and in another
+<pb n="15" facs="tcp:19260:15"/> place he ſaith alſo: Firſt,<note place="margin">Aug. de tem<g ref="char:EOLhyphen"/>por. ſerm. <hi>45</hi> Prius reco<g ref="char:EOLhyphen"/>lite vitam iuſti, in iſto adhuc cor<g ref="char:EOLhyphen"/>pore bellum eſſe, nondu<g ref="char:cmbAbbrStroke">̄</g> triumphum</note> conſider yee the life of the iuſt man, that while he is in the body, hee is ſtill in a combate, the triumph is not yet.</p>
+            <p>And there is iuſt cauſe where<g ref="char:EOLhyphen"/>fore God regenerates, but in part, leauing ſtill the rootes of ſinne in his deareſt Saints. Firſt, that hereby they might bee the more abaſed in themſelues, and ſo pre<g ref="char:EOLhyphen"/>ſerued from ſpirituall pride: why did the Lord leaue the<note n="*" place="margin">Or ſtubbe.</note> thorne in <hi>Pauls</hi> fleſh, 2 <hi>Cor.</hi> 12.7. but to hum<g ref="char:EOLhyphen"/>ble him thereby, left he ſhould be puffed vp with abundance of reue<g ref="char:EOLhyphen"/>lations: the Lord is like a skilfull Chyrurgian, hee is able to make a ſoueraigne Coraſiue of the Vi<g ref="char:EOLhyphen"/>pers fleſh of ſinne, to eate out the dead fleſh of ſpiritual pride, which is a ſinne, which commonly reui<g ref="char:EOLhyphen"/>ueth when other ſinnes are dead; when the diuell cannot draw men
+<pb n="16" facs="tcp:19260:16"/> to this or that groſſe ſinne, com<g ref="char:EOLhyphen"/>monly hee tempts them to pride, labouring to puffe them vp with a vaine conceit of their graces; and ſo by one dead flie, cauſeth if it were poſſible the whole box of the ointment of grace to ſtinck in the noſtrills of God. The Lord be<g ref="char:EOLhyphen"/>ing aware of this labours to pre<g ref="char:EOLhyphen"/>uent it, by leauing in vs ſufficient matter to hu<g ref="char:cmbAbbrStroke">̄</g>ble vs to the very duſt</p>
+            <p>Secondly, the Lord doth it, that his power may be perfected in our weakeneſſe, 2 <hi>Cor.</hi> 12.9. the Lord did neuer manifeſt his power more in any thing, no not in the very Creation of the World, then hee doth in the preſeruing of a weake Chriſtian full of infirmity to his heauenly Kingdome: in this the Lord preſerues contraries in contraries, hee cauſeth the fire of grace to burne in the midſt of a ſea of corruption: he preſerueth
+<pb n="17" facs="tcp:19260:16"/> Faith in the midſt of vnbeliefe, chaſtity in the midſt of vnclean<g ref="char:EOLhyphen"/>neſſe, patience in the midſt of di<g ref="char:EOLhyphen"/>ſtemper, holineſſe in the midſt of profaneſſe, and the like.</p>
+            <p n="3">3. This is done for the greater confuſion of the diuel; if the diuell had onely to deale with perfect men, it were the leſſe confuſion to him if he could not, either totally or finally preuaile againſt them by his helliſh temptations. But hauing to deale with weake men, ſuch as are more fleſh then ſpirit, and yet not being able with all his gates and armoury to preuaile a<g ref="char:EOLhyphen"/>gainſt them, in this he muſt needs goe away with great confuſion: in this the Lord deales with his children, as once hee did with the Caldeans, <hi>Ier.</hi> 37.10. though they remaine but as wounded men, yet by his power they ariſe and preuaile againſt
+<pb n="18" facs="tcp:19260:17"/> principalities and powers.</p>
+            <p>Fourthly, hereby the Lord doth try the courage and magnanimity of his children, leauing in their boſomes dangerous enemies a<g ref="char:EOLhyphen"/>gainſt whom they muſt combate all their life time. God had bin able, if it had pleaſed him to haue brought <hi>Iſrael</hi> his people into <hi>Ca<g ref="char:EOLhyphen"/>naan</hi> without Warre; but hee would not, that hee might trie them: euen ſo God is able to bring his children to heauen with<g ref="char:EOLhyphen"/>out any oppoſition, but hee will not; he that will obtaine the hea<g ref="char:EOLhyphen"/>uenly Canaan muſt fight for it.</p>
+            <p>Fifthly, Sinne ſtill remaineth in the children of God after con<g ref="char:EOLhyphen"/>uerſion, that they might the more ſenſibly feele what need they haue of Chriſt, and of Gods mercy; if wee were perfectly whole, wee ſhould not need the phyſitian, but
+<pb n="19" facs="tcp:19260:17"/> being ſickly and craſie (as indeed we be in our beſt eſtate here) we haue infinite need of the onely Doctor, who by the phyſick of his owne precious bloud healeth all our infirmities.</p>
+            <p>Sixthly, hereby the Lord doth weane his children from the loue of this world, and makes them willing and deſirous to bee diſſol<g ref="char:EOLhyphen"/>ued, and to be with Chriſt; not ſo much that they might bee freed from afflictions and diſtreſſes, as from ſinne and corruption; there is nothing in the world makes the true children of God ſo weary of their liues as ſinne doth.</p>
+            <p>
+               <hi>Queſt.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> Yea, but if there be ſinne ſtill remaining in the children of God after conuerſion, then what difference is there betwixt the ſtate of the conuerted and vncon<g ref="char:EOLhyphen"/>uerted?</p>
+            <p>
+               <hi>Anſw.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Yes great difference,
+<pb n="20" facs="tcp:19260:18"/> for though ſinne bee in both, yet it is not in the like manner in both. Sinne in the vnconuerted or wicked man is as the Maſter of the houſe, bearing the whole ſway, ruling and domineering at its pleaſure; but in the conuer<g ref="char:EOLhyphen"/>ted it is but as a drudge, being indeed vnruly and malitious but wanting power.</p>
+            <p>Secondly, Sinne in the vnrege<g ref="char:EOLhyphen"/>nerate, is as a welcome gueſt, en<g ref="char:EOLhyphen"/>tertained with all alacrity and cheerefulneſſe: nothing is ſo ſweet to a carnall man as ſinne, nothing ſo louingly embraced, nothing ſo ioyfully poſſeſſed; but in the re<g ref="char:EOLhyphen"/>generate it is as an vnwelcome gueſt, which intrudeth himſelfe without any inuitation, and re<g ref="char:EOLhyphen"/>maineth without any approbati<g ref="char:EOLhyphen"/>on, his roome being deſired rather then his company.</p>
+            <p>Thirdly, Sinne in the vnregene<g ref="char:EOLhyphen"/>rate
+<pb n="21" facs="tcp:19260:18"/> is committed and followed with greedineſſe, without any re<g ref="char:EOLhyphen"/>luctation in the will: the hart doth not more bray after the ri<g ref="char:EOLhyphen"/>uers of water then a wicked man doth luſt after ſinne: but in the regenerate, ſinne is reſiſted, prayed againſt, feared, ſhunned with the occaſions thereof, &amp;c.</p>
+            <p>Fourthly, Sinne in the vnrege<g ref="char:EOLhyphen"/>nerate is continued in, excuſed, maintained, and ſometimes boa<g ref="char:EOLhyphen"/>ſted of: but in the regenerate it is broken of by ſpeedy repentance, confeſſed, aggrauated and bluſhed at.</p>
+            <p>But to come to the Applicati<g ref="char:EOLhyphen"/>on: <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> is it ſo that ſinne remaineth ſtill in the children of God after conuerſion, to wit, originall cor<g ref="char:EOLhyphen"/>ruption; then this makes againſt the doctrine of Papiſts, maintai<g ref="char:EOLhyphen"/>ned by one of their chiefe<note n="a" place="margin">Bellar. lib. <hi>5.</hi> de ſtat paccat. c. <hi>7.</hi>
+               </note> Cham<g ref="char:EOLhyphen"/>pions which teacheth that origi<g ref="char:EOLhyphen"/>nall
+<pb n="22" facs="tcp:19260:19"/> ſinne is ſo waſhed away by Baptiſme, as that it remaineth no longer ſinne of its owne nature: a vaine conceit: for doth not <hi>Paul</hi> after he was baptized by <hi>Ananias,</hi> complaine in this Chapter of ſin ſtill dwelling in him, and will any Papiſt be ſo impudent, as to thinke himſelfe cleaner waſhed by Bap<g ref="char:EOLhyphen"/>tiſme then <hi>Paul</hi> himſelfe? but to let them goe:<note place="margin">The Fami<g ref="char:EOLhyphen"/>liſts are the generation of the Ma<g ref="char:EOLhyphen"/>nichaeans, Cathariſts, Donatiſts, Iouinians and Pela<g ref="char:EOLhyphen"/>gians, which in former ages of the Church held the ſame opini<g ref="char:EOLhyphen"/>on concer<g ref="char:EOLhyphen"/>ning purity as they doe.</note>
+            </p>
+            <p>This in the ſecond place makes againſt Familiſts, which dreame of attaining of perfection of de<g ref="char:EOLhyphen"/>grees in this preſent world, ter<g ref="char:EOLhyphen"/>ming themſelues eagles, angels, Archangels, commers vp to God, &amp;c. concerning whom, I may iuſtly ſay with <hi>Salomon, There is a generation pure in their owne eyes, and yet are not waſhed from their filthineſſe, Pro.</hi> 30.12. the diuel may ſo farre preuaile with them by their inbred pride as to make
+<pb n="23" facs="tcp:19260:19"/> them beleeue they are pure, but alaſſe, if we conſider them well, we ſhall finde them moſt erroni<g ref="char:EOLhyphen"/>ous in their iudgeme<g ref="char:cmbAbbrStroke">̄</g>ts, diſtempe<g ref="char:EOLhyphen"/>red in their paſſions, diſordered in their liues, vnreformed in their fa<g ref="char:EOLhyphen"/>milies: yea ſometimes deliuered vp to ſome baſe luſt, either of idle<g ref="char:EOLhyphen"/>nes, or vncleannes, or couetouſnes, or fraud and deceit, or the like: but to leaue theſe and to come to our ſelues. In the third place let it teach vs not to deſpaire though we finde corruption in our ſelues after conuerſion, eſpecially, if we looke vpon it with the ſame eye that God lookes vpon it withall, to wit, to hate and abhorre it: it is not ſinne but the loue of ſinne that baines the ſoule; and yet let vs take heed leſt wee deceiue our ſelues, thinking vnder a colour that all are ſinners, that therefore there is no difference betweene
+<pb n="24" facs="tcp:19260:20"/> ſinne as it is in the regenerate, and as it is in the vnregenerate. For though there is ſinne in both, yet there is great difference as we no<g ref="char:EOLhyphen"/>ted before.</p>
+            <p>Fourthly, let it teach vs not to iudge raſhly concerning our Bre<g ref="char:EOLhyphen"/>thren as though they were Hypo<g ref="char:EOLhyphen"/>crites, becauſe we decerne in them ſome frailties, yea, although wee ſhould diſcouer in them ſome acts of groſſer ſin, and ſome recidiuati<g ref="char:EOLhyphen"/>ons or back-ſlidings as in <hi>Dauid, Peter</hi> and <hi>Loth,</hi> yet wee are not to paſſe finall ſentence vpon them but rather conſider our ſelues leſt we alſo be tempted.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct </seg>3</label> 
+               <hi>Wretched man that I am:</hi> hence obeſerue in the ſecond place; <hi>what it is that makes a man miſerable:</hi> and that is not afflictions, as po<g ref="char:EOLhyphen"/>uerty, impriſonment, diſgrace in the world, ſickneſſe, baniſhment, no not death it ſelfe: in the mids of
+<pb n="25" facs="tcp:19260:20"/> theſe we may haue ſome ioy, as the Martyrs haue had but <hi>ſin, ſinne alone is that which makes miſerable:</hi> and why ſo? becauſe it defaceth Gods Image in a man, and con<g ref="char:EOLhyphen"/>formes him to the Image of Sa<g ref="char:EOLhyphen"/>tan: no childe doth ſo aptly re<g ref="char:EOLhyphen"/>ſemble the parents, as ſin makes a man reſemble the diuell, which is no ſmall miſery. Secondly, it de<g ref="char:EOLhyphen"/>priues a man of Gods fauour, a man may vndergoe many croſſes and afflictions, and yet remaine in Gods loue, but he cannot continue wallowing in ſinne and retaine his fauour. Thirdly, it robs a man of al ſolid comfort, a man may be affli<g ref="char:EOLhyphen"/>cted, and yet filled with the ioyes in the holy Ghoſt: he may walke with ioy, work with ioy, eate with ioy, lie down with ioy, riſe vp with ioy: but he cannot ſell himſelfe to worke wickednes, and retaine any true comfort, ſin and comfort doe
+<pb n="26" facs="tcp:19260:21"/> mutually expell one another. Fourthly, ſin wounds the conſci<g ref="char:EOLhyphen"/>ence, kindles Gods wrath, keepes good things from vs, depriues of heauen, expoſeth to hel-torments, brings a curſe vpon al a man hath, makes the very remembrance of death terrible; and therefore ſinne alone makes miſerable.</p>
+            <p>Good <hi>Anſelmus</hi> had that ap<g ref="char:EOLhyphen"/>prehenſion of the miſerie of ſin, as that if hee had been put to his choice, he would haue choſen ra<g ref="char:EOLhyphen"/>ther to haue been in hell without ſinne, then in heauen with ſinne. Suppoſing ſin to be able to make him more miſerable then hell fire it ſelfe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> And this may ſerue firſt, to diſco<g ref="char:EOLhyphen"/>uer the deceitfulnes of ſin, it pro<g ref="char:EOLhyphen"/>miſes to make a man happie: the Adulterer would thinke himſelfe a happy man, if he might obtaine his filthy deſires: the Couetous
+<pb n="27" facs="tcp:19260:21"/> perſon would think himſelf made for euer, if by vſury, falſe weights, coſenage, ſwearing, lying, and the like, hee may attaine riches and greatneſſe in the world: the ma<g ref="char:EOLhyphen"/>licious perſon would thinke him<g ref="char:EOLhyphen"/>ſelfe happy to worke reuenge a<g ref="char:EOLhyphen"/>gainſt his enemy in word or deed. The like wee might ſay of o<g ref="char:EOLhyphen"/>ther habituall ſinners, which ac<g ref="char:EOLhyphen"/>count ſin their <hi>ſummum bonum,</hi> or chiefeſt good; but alas! they are far deceiued, accounting that their happineſſe which is their mi<g ref="char:EOLhyphen"/>ſerie: In this, they are like ſuch as haue the greene-ſickneſſe, which take delight to eate loame, and o<g ref="char:EOLhyphen"/>ther baggage, taking pleaſure in that which others ſee to bee their miſery: or like one infected with the itch (pardon the plainneſſe of my compariſon) who takes delight and pleaſure in rubbing of him<g ref="char:EOLhyphen"/>ſelfe, when as alas, this hee takes
+<pb n="26" facs="tcp:19260:22"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="27" facs="tcp:19260:22"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="28" facs="tcp:19260:23"/> pleaſure in, increaſeth his miſerie. Thus, I ſay, wee ſee the deceitful<g ref="char:EOLhyphen"/>neſſe of ſinne, it promiſeth hap<g ref="char:EOLhyphen"/>pineſſe, but it performeth no<g ref="char:EOLhyphen"/>thing but woefull miſerie.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> Secondly, this ſhewes vs what we may eſteeme of them which (wee ſee) goe on and take their chiefe delight in ſinne, be they ne<g ref="char:EOLhyphen"/>uer ſo rich, neuer ſo great, neuer ſo highly aduanced in the world, they are but wretched perſons: if the ſenſe of naturall corruption a<g ref="char:EOLhyphen"/>bated, made the Apoſtle in his own feeling miſerable; what ſhall ſinne reigning, and nothing aba<g ref="char:EOLhyphen"/>ted, make theſe perſons? Poſſibly they are not ſenſible of their mi<g ref="char:EOLhyphen"/>ſery, as <hi>Paul</hi> was, but this their ſenſeleſneſſe addes rather to their miſery, then in any ſort extenuats it: a man ſomtimes is neuer more deadly ſicke then when hee hath leaſt feeling of his ſickneſſe; euen
+<pb n="29" facs="tcp:19260:23"/> ſo a ſinner is then in the moſt mi<g ref="char:EOLhyphen"/>ſerable caſe, when he can goe on in ſinne with greedineſſe with<g ref="char:EOLhyphen"/>out any remorſe and with great contentment. What ſhould wee ſpeake of IOB ſitting on the dung hill, or of LAZARVS full of ſores dying at the Rich-mans gate, or of any other in great af<g ref="char:EOLhyphen"/>fliction, the ſinner, the ſinner is the onely miſerable perſon. Shew methe greateſt ſinner in the world, and I will quickly ſhew thee the moſt wretched miſerable catiffe that the earth beares, or euer the Sun lookt vpon. Many other good vſes might be made of this point, both for the deepe humiliation of vs which are ſinners, and for our preſeruation againſt ſinne for the time to come: but for breuity ſake, I leaue them to euery mans priuate meditation, beſeeching e<g ref="char:EOLhyphen"/>uery man and woman in the name
+<pb n="30" facs="tcp:19260:24"/> of the Lord Ieſus, to ſhunne that with all diligence which they ſee by this doctrine, will make them wretched and miſerable.</p>
+            <p>And thus for the firſt part of my Text, to wit, the exclamation.</p>
+            <p>Come we now to the ſecond, namely the exoptation in theſe words: <hi>Who ſhall deliuer mee from the body of this death?</hi> Theſe words may be read two waies; ei<g ref="char:EOLhyphen"/>ther thus, <hi>Who ſhall deliuer me from the body of this death?</hi> or thus, <hi>Who ſhall deliuer me from this body of death?</hi> The Reaſon of the di<g ref="char:EOLhyphen"/>uerſity of reading is, becauſe the pronoune <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may bee indiffe<g ref="char:EOLhyphen"/>rently referred; as it ſtands in con<g ref="char:EOLhyphen"/>ſtruction, either to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; the Syrian tranſlation reads it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Who ſhall deliuer me from this body of
+<pb n="31" facs="tcp:19260:24"/> death,</hi> referring the pronoune <hi>This,</hi> rather to body then to death: the which reading, I doe the ra<g ref="char:EOLhyphen"/>ther imbrace, becauſe the Apoſtle at this time doth not ſeeme to point at this or that particular kinde of death, but rather at his preſent body. But in the next place for the better vnderſtanding of theſe words, it may bee deman<g ref="char:EOLhyphen"/>ded, what is meant heere by the body of death?<note n="a" place="margin">Bucer.</note> Some hold, that by the body of death is meant, no<g ref="char:EOLhyphen"/>thing elſe but ſinne inhabiting in the body:<note n="b" place="margin">Hier. in apolog ad<g ref="char:EOLhyphen"/>uerſus Ruf<g ref="char:EOLhyphen"/>fin.</note> others, by the body of death, vnderſtand the naturall body lyable to death: but <hi>Origen</hi> vnderſtands it of both.<note n="b" place="margin">Theoph. ad loc.</note> I thinke it ſafeſt to receiue the laſt accepti<g ref="char:EOLhyphen"/>on: For ſurely the Apoſtle deſires ſo earneſtly to bee freed from ſinne, as that withall he de<g ref="char:EOLhyphen"/>ſires to bee freed from the very body as it is infected with
+<pb n="32" facs="tcp:19260:25"/> ſinne. Wo ſhall deliuer? <hi>non du<g ref="char:EOLhyphen"/>bitantis, ſed anhelantis,</hi> ſaith reue<g ref="char:EOLhyphen"/>uerend <hi>Caluin,</hi> theſe are not words of one that doubteth, who ſhall deliuer him, but of one that great<g ref="char:EOLhyphen"/>ly deſireth to be deliuered, and in<g ref="char:EOLhyphen"/>deed it is the manner of the He<g ref="char:EOLhyphen"/>brewes to expreſſe an earneſt wiſh by way of queſtion, as wee haue an example in <hi>Pſal.</hi> 53.6. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> who will giue deliuerance vnto <hi>Iſrael</hi> out of <hi>Zi<g ref="char:EOLhyphen"/>on?</hi> that is, O that the Lord would giue deliuerance; and ſo in this place, <hi>who ſhall deliuer mee out of this body of death;</hi> that is, O that the Lord would deliuer me.</p>
+            <p>Thus for the meaning.</p>
+            <p>To handle the words, Firſt, as they haue relation to the body, and then as they haue reference to ſinne in the body: <hi>from this bo<g ref="char:EOLhyphen"/>dy of death;</hi> the body is called the
+<pb n="33" facs="tcp:19260:25"/> body of death, becauſe it is liable to death: ſo that the firſt inſtructi<g ref="char:EOLhyphen"/>on hence to bee obſerued, is, that <hi>the body of man is ſubiect to death or mortality:</hi> in this reſpect it is called duſt, <hi>Eccleſ.</hi> 12.7. a kar<g ref="char:EOLhyphen"/>keiſe, <hi>Heb.</hi> 3.17. a Tent or Taber<g ref="char:EOLhyphen"/>nacle, 2 <hi>Pet.</hi> 1.13. a mortall body, <hi>Rom.</hi> 6.12. and here a body of death. <hi>Queſt.</hi> But how came man to be liable to death? did GOD create him at the firſt ſo? Surely no: the Lord created him, <hi>non mo<g ref="char:EOLhyphen"/>riturum,</hi> ſuch an one as ſhould ne<g ref="char:EOLhyphen"/>uer haue ſeene death, if he had perſiſted in his integrity:<note place="margin">In lib. hy<g ref="char:EOLhyphen"/>pognoſt con<g ref="char:EOLhyphen"/>tra Pelag. &amp; Celeſtianos contra pri<g ref="char:EOLhyphen"/>mum arti<g ref="char:EOLhyphen"/>culum, Tom. <hi>7.</hi> Dicite ergo: ſi deus mortem fecit cur Chriſtus Deus mortuu<g ref="char:cmbAbbrStroke">̄</g> fleuit Lazarum ſecundum carnem, non enim quod ipſe fecerat dolere de<g ref="char:EOLhyphen"/>buit, ſed dolens eum &amp; plorans, oſtendit, quos Deus vitales fecerat, diabolum per culpam feciſſe mortales.</note> it was ſinne, it was ſinne, that brought death into the world. In ſinnes wombe it was hatched; God is not properly the Author or Father of it, <hi>Rom.</hi> 5.12. Saint <hi>Auguſtine</hi>
+               <pb n="34" facs="tcp:19260:26"/> ſaith notably; rather ſay yee, if God created death, why then did Chriſt, being God, bewaile the death of <hi>Lazarus</hi> according to the fleſh: for what hee himſelfe had made, he ſhould not haue grieued for; but in that he doth lament and bewaile him, he ſheweth that whom God had made vitall, the diuell by ſinne hath made mor<g ref="char:EOLhyphen"/>tall. We ſhall not need further to inſiſt vpon the proofe of this point, <hi>viz.</hi> that the body of man is mortall; we ſee it prooued eue<g ref="char:EOLhyphen"/>ry day, when we ſee by experience good men, wiſe men, great men, eminent men in Church or Com<g ref="char:EOLhyphen"/>mon-Wealth, Learned men, and men of ſingular parts to be taken away by death, as well as others: this point needs not proofe but Vſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> And this much aggrauateth the ſinne of ſuch as make it their
+<pb n="35" facs="tcp:19260:26"/> eſpeciall care to paint, pranck and to pamper their bodies: how ma<g ref="char:EOLhyphen"/>ny vaine women haue you in this City, and elſe-where, which ſpend a great part of the forenoone in trimming of their bodies, &amp; hard<g ref="char:EOLhyphen"/>ly afford to ſpend one quarter of an houre in a whole day in prayer, or reading of Gods Word, or in repenting of their ſinnes for the eternall good of their ſoules: yea; how many Epicures haue you both men and women, whoſe care is to fare deliciouſly euery day, to ride vp and downe from place to place, to ſeeke delights for their fleſh, which will hardly goe to the dore to heare a Sermon? doe theſe perſons conſider that their bodies are bodies of death? their pra<g ref="char:EOLhyphen"/>ctiſe ſhews they doe not: but let them remember that thoſe bodies which they are ſo curious to prank vp in apparell, farre aboue their
+<pb n="36" facs="tcp:19260:27"/> callings, muſt (they know not how ſoone) be clothed with duſt, and thoſe karkeiſes which they doe ſo pamper,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> poena autem huic mors malorum minimum plat. lib. <hi>9.</hi> de legibus.</note> ſhall ere it bee long, be very wormes-meate: yea, it were happie for them, if no greater danger did hang ouer their heads then bodily death: but alas, <hi>after death comes iudge<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t, Heb.</hi> 9.27. when they muſt an<g ref="char:EOLhyphen"/>ſwer for this miſexpence of time, and the reſt of their ſenſuall and graceleſſe courſes. I might make diuers other vſes of this point; for it ſhould teach vs to liue in a con<g ref="char:EOLhyphen"/>tinuall expectation of death, and preparation for it; it ſhould teach vs to lay vp treaſures for our ſelues in heauen by good workes, to bee mortified to the world, to beware of ſinne, and the like, becauſe we liue in bodies of death which may quickly faile vs; but I ſtudie bre<g ref="char:EOLhyphen"/>uitie.</p>
+            <pb n="37" facs="tcp:19260:27"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>5</label> 
+               <hi>This body:</hi> there is an Empha<g ref="char:EOLhyphen"/>ſis in theſe words; and they are ſpoken Diacriticks, by way of di<g ref="char:EOLhyphen"/>ſtinction: for indeed, <hi>the childe of God hath a this and a that body;</hi> his this body is, that which he poſſeſ<g ref="char:EOLhyphen"/>ſeth in this life, his that body is, that which he ſhall enioy at the Reſurrection: indeed for ſubſtance it is one and the ſame body, <hi>Iob</hi> 19.26- 27. but for qualities and ex<g ref="char:EOLhyphen"/>cellencies farre diſcrepant <hi>the former body is ſowne in corruption, the latter is raiſed in incorruption; the former is ſowne in diſhonor, the latter is raiſed in honor; the former is ſowne in weakeneſſe, the latter is raiſed in power; the former is ſowne a naturall body, the latter is raiſed a ſpirituall body, as the former hath borne the image of the earthy, ſo the latter ſhall beare the image of the heauenly,</hi> 1 <hi>Cor.</hi> 15.42.43.44.49.</p>
+            <pb n="38" facs="tcp:19260:28"/>
+            <p>
+               <note place="margin">Chryſoſt. hom. <hi>41</hi> in <hi>1.</hi> Epiſt. ad Corinth. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Vſe.</note>Hence it is, that one of the Fa<g ref="char:EOLhyphen"/>thers ſaith, the bodies of the Saints are like corne ſowne, and growing vp, that which riſeth is the ſame that was ſowen, and not the ſame; the ſame, becauſe it is the ſame ſubſtance; not the ſame, becauſe that which groweth vp is better, the ſame ſubſtance remaining, but the goodlines or beauty made far greater.</p>
+            <p>And this may comfort vs con<g ref="char:EOLhyphen"/>cerning the Saints deceaſed, they haue laid downe theſe infirme and corruptible bodies, but they ſhall receiue bodies farre more glori<g ref="char:EOLhyphen"/>ous: their vile body ſhall be made like vnto the glorious body of Chriſt himſelfe; howſoeuer not in Maieſty, yet in ſome ſimilitude of happineſſe, <hi>Philip.</hi> 3.2. yea, <hi>they ſhall ſhine as the Sunne in the Kingdome of their Father, Mat.</hi> 13.43. And as * Saint <hi>Chryſoſtome</hi>
+               <pb n="39" facs="tcp:19260:28"/> ſaith, God would neuer take downe the houſe of the bodies of his Saints by death,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> but that hee meanes againe to build it vp far more glorious by the Reſurre<g ref="char:EOLhyphen"/>ction, then euer it was before: let vs not therfore mourne immo<g ref="char:EOLhyphen"/>derately for the Saints departed, but let vs remember there will come a day, wherein they ſhall lift vp their heads out of the graue in ſhining brightneſſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>6</label> 
+               <hi>Who ſhall deliuer me?</hi> that is, O that the Lord would deliuer me: hence note, that <hi>its lawfull for a Christian to deſire to bee diſſolued. Paul</hi> deſires it erneſtly in this place, and certainely his deſire was no raſh deſire, yea the whole Church deſires it in, 2 <hi>Cor.</hi> 5.8. we are confident, and willing rather to be abſent from the body; And there is iuſt cauſe wherefore wee may doe this.</p>
+            <pb n="40" facs="tcp:19260:29"/>
+            <p>Firſt, becauſe whiles we are in the body, wee are ſubiect to many temptations, to much ſinne, and to much vexation, both inwardly and outwardly.<note place="margin">Cyprian ſerm <hi>4.</hi> de immortali<g ref="char:EOLhyphen"/>tate, Lucru<g ref="char:cmbAbbrStroke">̄</g> maximum computan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ium ſeculi laqueis non teneri, iam nullis pecca<g ref="char:EOLhyphen"/>tis &amp; vitijs carnis ob<g ref="char:EOLhyphen"/>noxium fie<g ref="char:EOLhyphen"/>ri, exemptu<g ref="char:cmbAbbrStroke">̄</g> preſſuria an<g ref="char:EOLhyphen"/>gentibus, &amp; venenatis diaboli fau cibus libe<g ref="char:EOLhyphen"/>ratum, ad laetitiam ſalutis aeter<g ref="char:EOLhyphen"/>nae Chriſto vocante proficiſci. Note.</note>
+            </p>
+            <p>Secondly, wee are abſent from thoſe vnſpeakeable ioyes which God hath layd vp for vs in a better world. To this purpoſe one of the Ancients ſpeakes notably, ex<g ref="char:EOLhyphen"/>pounding that of Saint <hi>Paul,</hi> in <hi>Philip.</hi> 1. <hi>Death to me is aduantage. Paul</hi> ſaith, hee eſteemed it very great gaine, now by vertue of death to be freed from many ſnares, from all ſinnes, from all ſorrowes, from the venimous iawes of Sathan, and to bee brought to the ioy of eternall ſal<g ref="char:EOLhyphen"/>uation, Chriſt calling him there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>Indeede it is not lawfull for a Chriſtian to lay violent hands vp<g ref="char:EOLhyphen"/>on himſelfe, vpon any pretence
+<pb n="41" facs="tcp:19260:29"/> whatſoeuer.<note place="margin">Apud Aug. lib. <hi>1.</hi> de ciuit. dei cap. <hi>22.</hi>
+               </note> One <hi>Cleo<g ref="char:cmbAbbrStroke">̄</g>brotus</hi> reading <hi>Platoes</hi> booke <hi>de immortal. animae,</hi> Caſt himſelfe downe from a wall and ſo ended his daies; onely be<g ref="char:EOLhyphen"/>cauſe thereby hee hoped to come to that bleſſed eſtate, which is pre<g ref="char:EOLhyphen"/>pared for good men after this life: but this was prepoſterous haſte, and not to be imitated of vs, wee may deſire happines, but we muſt ſtay Gods leaſure for it: the like may be ſaid of <hi>Lucretia,</hi> who is ſaid to haue taken away her owne life, to preuent rauiſhment; all murther is to bee abhorred, but there is no murther ſo vnnaturall as hemicide or ſelfe-murther which is the very reaſon why the diuel doth ſo violently tempt men thereunto. The Heathen were ſo carefull to preuent this kinde of vnnaturall death,<note place="margin">Val. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. max. lib. <hi>8.</hi> c. <hi>9.</hi>
+               </note> that one <hi>Hege<g ref="char:EOLhyphen"/>ſias</hi> an eloquent Philoſopher, was forbidden by <hi>Ptolemeus</hi> the King,
+<pb n="42" facs="tcp:19260:30"/> to reaſon or ſpeake much concer<g ref="char:EOLhyphen"/>ning mans infelicity leſt his Au<g ref="char:EOLhyphen"/>ditors ſhould bee moued by his ſpeech to make away themſelues; ſhall the heathen be thus carefull to ſhunne this ſinne, and ſhall not Chriſtians much more?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> But to come to the Vſe of the point: is it ſo, that a Chriſtian may and ought to deſire to be diſ<g ref="char:EOLhyphen"/>ſolued? this meets with them ther<g ref="char:EOLhyphen"/>fore which are at home in this world, which if they might haue their choice, would make them<g ref="char:EOLhyphen"/>ſelues euerlaſting Tabernacles here, and would neuer remoue be<g ref="char:EOLhyphen"/>ing content rather to liue in ſinne, and to endure much hardſhip, then to change their habitation. I confeſſe life is ſweete, and wee ought not wilfully to imperill it. <hi>Homer</hi> brings in the moſt valiant men armed, and weaponed ready to defend their liues, and ſo it may
+<pb n="43" facs="tcp:19260:30"/> ſtand with a magnan imous ſpirit to ſeeke to preſerue life by all law<g ref="char:EOLhyphen"/>full meanes: but to dote vpon this momentany life, and to preferre it before eternity, muſt needs be a great ſinne: honey is ſweete, and yet we muſt not ſurfeit vpon it; ſo life is pleaſant, but we muſt not ouerualue it.</p>
+            <p>Now that we may attaine this reſolution of Saint <hi>Paul,</hi> to deſire to be diſſolued: wee muſt obſerue theſe rules following. Firſt, wee muſt pull out the ſting of death, which is ſinne: death is a Serpent, but if you take away its ſting, you may ſafely put it in your boſome.<note place="margin">Ariſtot. lib. <hi>3.</hi> ethic ad nic hom. c <hi>6</hi>
+               </note> The Heathen Philoſopher could ſay, that, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, death is the moſt fearefull thing in the world, and why? not becauſe af<g ref="char:EOLhyphen"/>ter death there is neither good nor euill, as he atheiſtically ſpeakes; but becauſe the conſcience is ter<g ref="char:EOLhyphen"/>rified
+<pb n="44" facs="tcp:19260:31"/> with ſinne vnrepented of. O that I could inlarge my ſelfe now to ſpeake to euery particular ſinner. Thou that art a common ſwearer, a Sabbath-breaker, a ſe<g ref="char:EOLhyphen"/>cret adulterer, a common drun<g ref="char:EOLhyphen"/>kard, a fraudulent dealer, a mali<g ref="char:EOLhyphen"/>tious perſon, a perſecutor, and a ſlanderer of Gods faithfull Mini<g ref="char:EOLhyphen"/>ſters, an idle droane, a lyar, a tale<g ref="char:EOLhyphen"/>bearer, a belly-god, a proud per<g ref="char:EOLhyphen"/>ſon, an vſurer, a baſe worldling, &amp;c. doſt thou deſire euer to looke death in the face with comfort, &amp; without helliſh feare? break off thy ſinne, elſe death will ſting thee like an Addar, &amp; thou ſhalt neuer be able to look God in the face.</p>
+            <p>Secondly, if we would attaine to a willingneſſe to die, wee muſt get faith, wee muſt make our cal<g ref="char:EOLhyphen"/>ling and election ſure, wee muſt with <hi>Simeon</hi> get Chriſt in our armes, and then we ſhall eaſily ſay,
+<pb n="45" facs="tcp:19260:31"/> 
+               <hi>Lord now letteſt thou thy ſeruant de<g ref="char:EOLhyphen"/>part in peace:</hi> a man cannot chooſe but feare to die, when he knowes not what ſhall become of his poore ſoule in the world to come. We haue many encouragements to beleeue: Firſt, becauſe we are commanded ſo to doe, 1 <hi>Ioh.</hi> 3.23. Secondly, becauſe Gods mercies and Chriſts merits are greater then our ſinnes, be our ſinnes ne<g ref="char:EOLhyphen"/>uer ſo great, <hi>Iſa.</hi> 1.18. Thirdly, becauſe great ſinners haue bin ſa<g ref="char:EOLhyphen"/>ued, <hi>Manaſſe, Mary Magdalen, Dauid, The prodigall Sonne,</hi> with diuers others. Fourthly, becauſe the tender of mercy is made to e<g ref="char:EOLhyphen"/>uery Creature, <hi>Mar.</hi> 16.15. Fifth<g ref="char:EOLhyphen"/>ly, we haue many excellent helpes to beleeue, to wit, the preaching of the Goſpell, the vſe of the bleſ<g ref="char:EOLhyphen"/>ſed Sacraments, experience of for<g ref="char:EOLhyphen"/>mer feelings and tokens of Gods loue, &amp;c. O therefore let vs ſtirre
+<pb n="46" facs="tcp:19260:32"/> vp our ſelues to beleeue; and let vs labour for ſuch a Faith as may purifie our hearts, <hi>Acts</hi> 15.9. as may worke by loue, <hi>Gal.</hi> 5.6. as may fill our hearts with ſound ioy, 1 <hi>Pet.</hi> 1.8. as may bee ioyned with good fruits, <hi>Iames</hi> 2.26.</p>
+            <p>If wee can but beleeue by ſuch a faith as this is, nothing ſhal be able to hinder our Saluation; yea, if all the tyles vpon the houſe where we ſhall die, were ſo many diuels, we ſhould not feare. It is recorded of one <hi>Epaminondas</hi> a fa<g ref="char:EOLhyphen"/>mous captaine,<note place="margin">Diadorus Siculus lib. <hi>15.</hi>
+               </note> who being woun<g ref="char:EOLhyphen"/>ded in Warre, asked firſt if his ſhield were ſafe, as though he had not cared what had become of his life, ſo his buckler were preſerued; euen ſo we need not care what be<g ref="char:EOLhyphen"/>comes of our liues, ſo our Faith be ſafe.</p>
+            <p>Thirdly, If we will die willing<g ref="char:EOLhyphen"/>ly and with comfort, we muſt ex<g ref="char:EOLhyphen"/>pell
+<pb n="47" facs="tcp:19260:32"/> out of our hearts the immo<g ref="char:EOLhyphen"/>derate loue of the world.<note place="margin">Ambro. lib. de fide re<g ref="char:EOLhyphen"/>ſur. Tom <hi>3.</hi> Mors nec amara ege<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tibus nec gratioſa di<g ref="char:EOLhyphen"/>uttibus,</note> It is a true ſaying of one of the antient Fa<g ref="char:EOLhyphen"/>thers: Death is neither bitter to men that liue in want, neither is it welcome to rich men: a rich man that hath made Mamo<g ref="char:cmbAbbrStroke">̄</g> &amp; pleaſure his God will be as loath to part with theſe at his death, as euer <hi>La<g ref="char:EOLhyphen"/>ba<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> was to part with his Idols which <hi>Rahel</hi> had ſtolne: yea, if God would offer him heauen vpon condition to part with theſe, he would refuſe the offer, <hi>Mat.</hi> 19.21.22. O therefore my beloued, let vs take the counſell of the holy Ghoſt, in <hi>Pſal.</hi> 62.10. <hi>If riches in<g ref="char:EOLhyphen"/>creaſe, let vs not ſet our hearts there<g ref="char:EOLhyphen"/>on:</hi> let them not clog the wings of our affections, but let vs in the mids of aboundance, reſerue in our ſelues a willingneſſe to bee diſſol<g ref="char:EOLhyphen"/>ued, and to be with Chriſt; know<g ref="char:EOLhyphen"/>ing that with him is induring ſub<g ref="char:EOLhyphen"/>ſtance
+<pb n="48" facs="tcp:19260:33"/> and fullneſſe of ioy for euer and euer. Doſt thou willingly dye and leaue thy deare freinds? be<g ref="char:EOLhyphen"/>hold, thou ſhalt enioy the compa<g ref="char:EOLhyphen"/>ny of the bleſſed Trinity, of the elect Angels, and of the ſoules of men made perfect: doſt thou willingly part with great ri<g ref="char:EOLhyphen"/>ches on earth? behold, thou ſhalt haue great treaſure in heauen: doſt thou cheerefully leaue thy earthly habitation? behold, a bet<g ref="char:EOLhyphen"/>ter manſion aboue ready to re<g ref="char:EOLhyphen"/>ceiue thee.</p>
+            <p>Fourthly, if we will die willing<g ref="char:EOLhyphen"/>ly, wee muſt bee fruitfull in good workes, this is to lay vp for our ſelues a good foundation againſt the time to come (howbeit, not of merit, but of aſſurance) 1 <hi>Tim.</hi> 6.19. it is no maruell if any man be vnwilling to be ſent out to liue in ſome ſtrange Countrey, vnto the which hee hath ſent no prouiſion
+<pb n="49" facs="tcp:19260:33"/> before hand for his owne enter<g ref="char:EOLhyphen"/>tainement, and ſo it is no ſtrange thing, if any be vnwilling to die, who hath not had any care to lay vp treaſure for himſelfe in heauen: let me vſe therefore that effectuall exhortation of our bleſſed Saui<g ref="char:EOLhyphen"/>our, <hi>Luke</hi> 16.9. <hi>Make you friends of the Mammon of vnrighteouſneſſe, that when ye ſhall fayle, they may re<g ref="char:EOLhyphen"/>ceiue you into euerlaſting Taberna<g ref="char:EOLhyphen"/>cles.</hi> Good workes done in a right manner and with a ſound intenti<g ref="char:EOLhyphen"/>on will make thy life ſweet, thy death comfortable, and thy end happie. What a man giues to kindred &amp; friends out of meere na<g ref="char:EOLhyphen"/>turall reſpects, he giues it meerely to them, and they onely haue the benefit of it; but whatſoeuer any ſhall giue for Chriſt, and for pious vſes, he giues it to himſelfe, he re<g ref="char:EOLhyphen"/>wards his owne ſoule: hee alone receiues the maine benefit, accor<g ref="char:EOLhyphen"/>ding
+<pb n="50" facs="tcp:19260:34"/> to that.<note place="margin">Auguſt in ſerm. de divite. Quicquid pauperibus dederimus ipſum inte<g ref="char:EOLhyphen"/>gre poſſide bimus.</note> Whatſoeuer wee ſhall giue to the poore, wee ſhall enioy it all our owne ſelues.</p>
+            <p>Fifthly, if we would die willing<g ref="char:EOLhyphen"/>ly, we muſt with Chriſt <hi>finiſh the worke the Lord hath giuen vs to do, Ioh.</hi> 17.4. no ſeruant is willing his Maſter ſhould returne vntill hee hath done his appointed taske; no ſteward is willing his Lord ſhould call him to an account before hee hath made all things ſtreight. But heere it may bee demanded, what is the worke which the Lord hath giuen vs to doe? Or what is the maine taske of a Chriſtian? <hi>An<g ref="char:EOLhyphen"/>ſwer,</hi> His firſt taske is to repent; euery Chriſtian ſhould thinke himſelfe borne for repentance: his ſecond taske is to beleeue in the Lord Ieſus, and ſo to make ſtreight his account by ſetting his debts vpon Chriſt his ſcore: his third taske is, to glorifie God
+<pb n="51" facs="tcp:19260:34"/> in his generall and particular cal<g ref="char:EOLhyphen"/>ling, labouring therein faithfully, in loue to his Maſter, and in thankfulneſſe for the great worke of Redemption: his fourth taske is, <hi>to worke vp his owne ſaluation with feare and trembling,</hi> and to giue all diligence to make his cal<g ref="char:EOLhyphen"/>ling and election ſure: hee that hath a conſcionable care to diſ<g ref="char:EOLhyphen"/>patch this taske, need neither bee aſhamed to liue, nor afraid to die.</p>
+            <p>Thus for the tractation of theſe words, Who ſhall deliuer mee from this body of death, as they haue relation to the body.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>7</label> Come we now to handle them as they haue reference to ſinne in the body: And ſo we obſerue in the firſt place, that <hi>ſinne is a bon<g ref="char:EOLhyphen"/>dage;</hi> elſe, why ſhould the Apoſtle ſpeake heere of deliuerance from
+<pb n="52" facs="tcp:19260:35"/> it:<note place="margin">Cyrulus Alexan. in euang. Ioan. lib. <hi>6.</hi> c. <hi>2.</hi> Haec ſerui<g ref="char:EOLhyphen"/>tus eo dete<g ref="char:EOLhyphen"/>rior eſt qua<g ref="char:cmbAbbrStroke">̄</g> corporalis ſubiectio,</note> yea, as one of the Fathers ſaith truly, The ſeruitude of ſinne is ſo much the worſe then bodily ſub<g ref="char:EOLhyphen"/>iection, For theſe cauſes.</p>
+            <p>Firſt, becauſe al men deteſt and ſhunne corporall ſubiection as hard and bitter, and that out of knowledge of the bitterneſſe of it: but the ſeruitude of ſinne is nei<g ref="char:EOLhyphen"/>ther ſufficiently knowne, neither doth it diſpleaſe: yea, we applaud it and play with it, take pleaſure in it, and account it rather a free<g ref="char:EOLhyphen"/>dome then a bondage.</p>
+            <p>Secondly, becauſe by running away, a man may deliuer himſelfe from bodily bondage;<note place="margin">Seruus au<g ref="char:EOLhyphen"/>tem peccati non habet quo fugiat.</note> but a ſlaue to ſin cannot doe ſo, his euill incli<g ref="char:EOLhyphen"/>nations and guilty conſcience will ſtill follow him.</p>
+            <p>Thirdly, in bodily bondage a man may be blameleſſe; for what blame was there in <hi>Ioſeph,</hi> when hee was ſold as a ſlaue by his bre<g ref="char:EOLhyphen"/>thren
+<pb n="53" facs="tcp:19260:35"/> into Aegypt; but in the ſla<g ref="char:EOLhyphen"/>uerie to ſinne, a man cannot bee innocent, becauſe he is not ſold a<g ref="char:EOLhyphen"/>gainſt his will, but with his will to worke wickedneſſe.</p>
+            <p>Fourthly, from bodily ſlauerie, there is freedome and deliuerance at death, though during life it bee neuer ſo hard and painefull, but ſpirituall ſlauerie hath no end, no not in death: hee that hath ſerued ſinne all his life, remaines a very Captiue after death, without any hope at all of any freedome.</p>
+            <p>Fifthly, in corporall ſeruitude a mans minde may be made free; but in ſpirituall,<note place="margin">Hilar. in Pſal. <hi>125.</hi> At vero animae cap<g ref="char:EOLhyphen"/>tiuitas qua<g ref="char:cmbAbbrStroke">̄</g> infelix eſt. At vero cui libido domi<g ref="char:EOLhyphen"/>na eſt in quo caeno dedecoris volutatur.</note> both ſoule and body in all the faculties and parts thereof are in bondage: another of the Fathers ſaith, the bondage of the ſoule, O how miſerabe is it. And againe, he that is ouerpow<g ref="char:EOLhyphen"/>red by luſt, how ſhamefully doth hee wallow in the mire as a very
+<pb n="54" facs="tcp:19260:36"/> ſwine:<note place="margin">Theoph in <hi>8.</hi> Ioannis. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Beda in eundem lo<g ref="char:EOLunhyphen"/>cum. O mi<g ref="char:EOLhyphen"/>ſerabilis ſer<g ref="char:EOLunhyphen"/>uitus, ſerui<g ref="char:EOLhyphen"/>re peccato, ſeruire dia<g ref="char:EOLhyphen"/>bolo qui pec<g ref="char:EOLhyphen"/>cati eſt au<g ref="char:EOLhyphen"/>thor.</note> a third ſaith, the bondage of ſinne is of all other the moſt grieuous: a fourth ſaith, O miſe<g ref="char:EOLhyphen"/>rable ſeruitude, to ſerue ſinne, and to ſerue the diuell, who is the au<g ref="char:EOLhyphen"/>thor of ſinne? But what doe we ſpeake of Fathers, what ſaith the Scripture? Chriſt himſelfe ſaith, <hi>Iohn</hi> 8.34. <hi>he that worketh ſinne, is the ſeruant of ſinne:</hi> and ſeducers in whom corruption raigneth, are ſaid to be <hi>the bondſlaues of corrupti<g ref="char:EOLhyphen"/>on, in</hi> 2 <hi>Pet.</hi> 2.19. I might alſo vrge that place in <hi>Gal.</hi> 4.25. <hi>Hieruſalem that now is, is in bondage with her children:</hi> but I haſten to a conclu<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> Let this teach vs to eſteeme aright of ſinne: let vs not account it liberty to bee entangled with this or that luſt, but rather helliſh bondage: what praiſe is it to <hi>Alexander</hi> to conquer the whole world, being conquered himſelfe
+<pb n="37" facs="tcp:19260:36"/> of his owne luſts and paſſions? yea, let it moue vs to labour after li<g ref="char:EOLhyphen"/>berty: let the adulterer forſake his vncleanneſſe, the drunkard his drunkenneſſe, the worldling his worldly mindedneſſe, and all other ſinners their deareling luſts, that they may bee free; in other re<g ref="char:EOLhyphen"/>ſpects we all loue freedome, and no man by his wil would remaine in bondage. O why ſhould we be in loue with the baſeſt bondage of all other, to wit, of ſinne.</p>
+            <p>
+               <hi>Tertullian</hi> reports,<note place="margin">Lib. de cultu faeminaru<g ref="char:cmbAbbrStroke">̄</g>.</note> that amongſt the Heathen, ſome of them made the fetters wherewith their priſo<g ref="char:EOLhyphen"/>ners were bound, of gold: but alas, what dram of comfort could this afford to the condemned priſoner, who daily expected death: did not fetters of gold keepe as faſt as fet<g ref="char:EOLhyphen"/>ters of yron? may not a ſilken hal<g ref="char:EOLhyphen"/>ter ſtrangle a man as wel as one of hemp? may not a coſtly dagger
+<pb n="56" facs="tcp:19260:37"/> ſtab as well to the heart as a meane one: euen ſo though ſome may be clothed with rich aray, and fare deliciouſly daily, and liue in pleaſure, yet if in the midſt of his proſperity he be a ſlaue to his own luſts, a Captiue to Sathan, in dan<g ref="char:EOLhyphen"/>ger of eternall impriſonment, yea, of eternall death; what will his proſperity auaile him in the end? It is farre better to be a free man in ragges, then a condemned priſo<g ref="char:EOLhyphen"/>ner in rich robes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>8</label> 
+               <hi>Who ſhall deliuer me:</hi> hence ob<g ref="char:EOLhyphen"/>ſerue in the next place, that <hi>it is not enough to grieue for ſinne, or to account it the greateſt miſerie, but euery true Chriſtian ought earneſtly to deſire to bee freed from it:</hi> thus <hi>Paul</hi> heere: and certainely that griefe for ſinne is not true, but hy<g ref="char:EOLhyphen"/>pocriticall, which is not ioyned with an earneſt deſire to be freed from the dominion of euery ſinne:
+<pb n="57" facs="tcp:19260:37"/> there is infinite reaſon why any man ſhould deſire to bee freed from ſinne: as, Firſt, becauſe it is the greateſt miſery: and Second<g ref="char:EOLhyphen"/>ly, becauſe it is the moſt woefull bondage: Thirdly, becauſe it of<g ref="char:EOLhyphen"/>fends God: and Fourthly, becauſe the wages of it is death; but I will not inſiſt vpon this: let vs rather conſider with what kinde of deſire wee ought to deſire to bee freed. Surely we muſt deſire it with <hi>Pauls</hi> deſire: but what kinde of deſire was <hi>Pauls</hi> deſire?</p>
+            <p>Firſt, it was an importunate, not a ſlight deſire, that appeares by the forme of it, in that it is pro<g ref="char:EOLhyphen"/>pounded by way of queſtion.</p>
+            <p>Secondly, it was no ſluggiſh de<g ref="char:EOLhyphen"/>ſire ſeparated from the vſe of meanes, but it was ioyned with prayer and faſting, 2 <hi>Cor.</hi> 12.8. 1 <hi>Cor.</hi> 9.27. and with the improue<g ref="char:EOLhyphen"/>ment of the whole Armour of
+<pb n="55" facs="tcp:19260:38"/> God, 2 <hi>Tim</hi> 4.7. and indeed, in vaine doth any man deſire to bee freed from ſin, that doth not with<g ref="char:EOLhyphen"/>all diligently vſe the meanes whereby he might be freed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> And this diſcouers an hypocri<g ref="char:EOLhyphen"/>ticall mourner, he can weepe af<g ref="char:EOLhyphen"/>ter he hath committed ſin, as the <hi>Crocadile</hi> after ſhee hath ſlaine a man:<note place="margin">Conradus Geſnerus.</note> but yet he hath no ſound de<g ref="char:EOLhyphen"/>ſire to be freed from the power of that ſin, for the which hee ſeemes to weepe: his prayer againſt ſin is like the prayer of Saint <hi>Auguſtine</hi> when he was betweene light and darkeneſſe: he prayed indeed for chaſtity, but hee was afraid leſt God ſhould heare and grant his prayer too ſoone: as he teſtifies of himſelfe in his confeſſions: So this man weepes for ſin, &amp; yet ſtill he deſires to enioy the pleaſures of it. But my beloued brethren, let vs not deceiue our ſelues with falſe
+<pb n="56" facs="tcp:19260:38"/> teares: but let vs ſtir vp our ſelues to earneſt deſires to be freed from ſin: yea, vnto our deſires, let vs adde diligent meanes of Mortification: let vs bee frequent in the vſe of Gods Ordinances, in reading and hearing Gods Word, in Prayer, in the Lords Supper, and the ike. Secondly, let vs ſhun the occaſions of temptation to ſinne, <hi>viz.</hi> Stage-playes, diſordered pla<g ref="char:EOLhyphen"/>ces, bad company, &amp;c. Thirdly, let vs well improue our ſpirituall armour. It is feigned of the gyants that they were borne into the world in their armour. Sure I am, a chriſtian is not ſooner new-borne, but he ſhall finde vſe of the whole Armour of God, hauing enemies to fight againſt him, both within and without.</p>
+            <p>Thus I haue done with the Text.</p>
+            <pb n="55" facs="tcp:19260:39"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="56" facs="tcp:19260:39"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="60" facs="tcp:19260:40"/>
+            <p>THE occaſion of this Ser<g ref="char:EOLhyphen"/>mon, was the death of Ma<g ref="char:EOLhyphen"/>ſter IOHN IVXON, Citi<g ref="char:EOLhyphen"/>zen and Marchant-Taylor of Lon<g ref="char:EOLhyphen"/>don; who deceaſed the twentie two of <hi>August,</hi> and was buried on the laſt day of the ſame moneth, <hi>Anno.</hi> 1626. Concerning whom, I ſuppoſe euery one wil not ſpeake well, although I hope none (if all things be rightly conſidered) hath any iuſt cauſe to ſpeake euill of him: but what good man at theſe daies may not ſay with <hi>Ariſtopha<g ref="char:EOLhyphen"/>nes,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I haue bin a profitable member of the Common-Wealth, and a friend to the Citie, and yet I ſuffer wrong. I haue liued in the houſe of our deceaſed Brother, twelue yeeres and vpwards. I thanke God for his loue: in the which time, I haue obſerued him to bee very Zealouſly affected to Gods word,
+<pb n="61" facs="tcp:19260:40"/> very carefull of the ſanctifying of Gods Sabbaths, very conſciona<g ref="char:EOLhyphen"/>ble in his perſonall performance of holy duties in his familie, very ſtudious to traine vp his Children in the knowledge &amp; feare of God: he was alſo (I hope) very iuſt in his ſecret dealings. I remember he ſaid vnto me in his life time, that hee praiſed God, his conſcience did not accuſe him of any one groate then in his poſſeſſion, which was gotten by vniuſt meanes: a ſpeech which (it is to be feared) too few rich men at theſe times, are able to ſay truly; alſo he was very hum<g ref="char:EOLhyphen"/>ble &amp; lowly, hauing a very meane opinio<g ref="char:cmbAbbrStroke">̄</g> of his own parts, he was ful of godly iealouſie concerning his owne eſtate, hee went mourning vnder the ſenſe and feeling of na<g ref="char:EOLhyphen"/>turall corruption, hee reuerenced God highly, he loued Chriſt dearely, he was louingly affected
+<pb n="59" facs="tcp:19260:41"/> towards Gods faithfull Miniſters and people, he did good in his life<g ref="char:EOLhyphen"/>time, laying vp treaſure for him<g ref="char:EOLhyphen"/>ſelfe in heauen, and he did good at his death: yea, and to my know<g ref="char:EOLhyphen"/>ledge, (by that which he hath ſaid vnto me) he had a purpoſe to haue done a great deale more good, if the Lord had lengthened his life: what ſhall I ſay? ſurely ſuch a man will bee miſſed by the Church of God, by the poore in diuers places, by his owne Chil<g ref="char:EOLhyphen"/>dren, and by my ſelfe: and yet I wil ſay with S. <hi>Chryſost.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Hom. <hi>41.</hi> in <hi>1.</hi> Epiſt. ad Corinth.</note> let vs not mourne <hi>im<g ref="char:EOLhyphen"/>moderately</hi> for them that depart hence, but let vs weepe for them which end their liues ill, &amp; in this reſpect, I hope wee haue no cauſe to bewaile the death of this our Brother. For he dyed full of Faith, and full of ioy: and yet in reſpect
+<pb n="60" facs="tcp:19260:41"/> of the want I ſhall finde of thee my deare and louing friend, I can<g ref="char:EOLhyphen"/>not but conclude with lugubrious verſes concerning thee.</p>
+            <lg>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <pb n="64" facs="tcp:19260:42"/>
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </head>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </lg>
+         </div>
+         <div xml:lang="lat" type="epitaph">
+            <head>Epitaphiu<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>STEPHANI DENI<g ref="char:EOLhyphen"/>SON</hi> in mortem D. <hi>IOAN<g ref="char:EOLhyphen"/>NIS IVXON</hi> amici eius longè chariſsimi.</head>
+            <l>
+               <note n="a" place="margin">Terent Andr. act. <hi>1.</hi> ſcen. <hi>1.</hi>
+               </note>Pamphilus en Chryſide<g ref="char:cmbAbbrStroke">̄</g> defuncta<g ref="char:cmbAbbrStroke">̄</g> Collachrumabat</l>
+            <l>In lachrymaſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ruit graecorum ob triſtia fata</l>
+            <l>
+               <note n="b" place="margin">Homer Odyſſ lib. <hi>8.</hi> verſus fine<g ref="char:cmbAbbrStroke">̄</g>.</note>Vliſſes, inſtar Niobes eccleſia Chriſti</l>
+            <l>Deflenda eſt nobis, flagranteſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ignibus aedes.</l>
+            <l>Res alios vrgent aduerſae, plangere amarè</l>
+            <l>Sic tua cogor ego dulciſſime funera amice.</l>
+            <l>Eccè perit inſtus, ſed<note n="c" place="margin">
+                  <hi>Iſa.</hi> 57.1.</note> nemo in mente reponit</l>
+            <l>Eheu quot rapuit nuper mors maeſta dynaſtas.</l>
+            <l>O Deus, auertas mala quae hoc praeſagijt<note n="d" place="margin">Ibidem.</note> omen,</l>
+            <l>Des ſimus memores propriae nos mortis, Ieſu.</l>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:19260:42"/>
+         </div>
+      </body>
+   </text>
+</TEI>
